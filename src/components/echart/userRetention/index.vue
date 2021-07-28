@@ -65,8 +65,8 @@ export default {
               }
             },
             data: [{
-              value: 7,
-              name: '70%'
+              value: 20,
+              name: '99%'
             },
             {
               value: 3,
