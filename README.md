@@ -1,4 +1,4 @@
-# vue-big-screen2.0
+# vue-big-screen3.0
 
 ## Project setup
 ```
